@@ -1,0 +1,19 @@
+#fila1 {
+  font-weight: bold;
+}
+
+tr:nth-child(2n) {
+  background: yellow;
+}
+th {
+  color: black;
+}
+tr:hover td {
+  background-color: blue;
+}
+table {
+  border: 100px grey;
+}
+#fila1{
+background-color: blueviolet;
+}

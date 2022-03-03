@@ -1,0 +1,25 @@
+*{
+    font: 5em/2.4arial,helvetica,sans-serif;
+}
+p{
+    color: #555;
+}
+#primero p {
+    color: #336699;
+}
+a {
+    color: #cc3300;
+
+}
+#primero em{
+    background: #FFFFCC;
+    padding:.15em;
+}
+ em.especial{
+    background: #FFCC99;
+    border: 6pxsolid #FF9900;
+    padding:.8em;
+}
+.normal span{
+    font-weight:bold;
+}
